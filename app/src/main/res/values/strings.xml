@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Saloon</string>
+    <string name="name">Add Name</string>
+    <string name="Photo">Add A photo</string>
+    <string name="Error_in_complete">Complete the required Fields</string>
+    <string name="Error_in_password">Password do not match</string>
+    <string name="No_result">Results Not Found</string>
+    <string name="invalid">Invalid Inputs</string>
+    <string name="Add_photo">Add a photo</string>
+    <string name="email_error">Enter a valid Email</string>
+    <string name="complted">Successfully Completed</string>
+</resources>
